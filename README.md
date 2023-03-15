@@ -15,6 +15,3 @@ Download all the `.py` and `.ipynb` files to the same directory as the dataset. 
 
 A full description of the code's modules appeares at the end of the file `final_report.pdf`.
 
-
-
-
