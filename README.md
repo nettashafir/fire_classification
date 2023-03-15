@@ -9,7 +9,7 @@ This project was submitted for the course **Applied Competitive Lab in Data Scie
 
 
 ## Usage
-Download the dataset [from Kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/discussion) as a `.csv` file.<br>
+Download the dataset [from Kaggle](https://www.kaggle.com/datasets/rtatman/188-million-us-wildfires/discussion) as a `.csv` file. Also download the shapefiles from the list in the file `shapefiles_sources.txt` (we couldn't upload them to this repository for they were too heavy), and same them in the same directory in a subdirectory called `shapefiles`.
 
 Download all the `.py` and `.ipynb` files to the same directory as the dataset. Open `main.ipynb` and replace the paths of train and test datasets. You can assist the function `get_work_data` in the `utils.py` file for split the full dataset to train and test. <br>
 
