@@ -1,0 +1,7 @@
+https://hifld-geoplatform.opendata.arcgis.com/datasets/468e9601b9b7407396e5c4f59772f1ff_0/explore?location=43.951156%2C-99.834235%2C8.22
+https://koordinates.com/from/usgs.koordinates.com/layer/95762-us-indian-lands/
+https://koordinates.com/layer/749-us-military-bases/
+https://koordinates.com/layer/11996-us-national-forests-areas/
+https://koordinates.com/layer/22829-us-national-parks/
+https://koordinates.com/from/usgs.koordinates.com/layer/95656-us-railroads/
+https://koordinates.com/layer/10874-us-wildland-urban-interface/
