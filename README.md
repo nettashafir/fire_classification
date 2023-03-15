@@ -1,7 +1,7 @@
 # The Classifire (Sorry)
 
 ## Description
-A classifier of fire types, Trained on the dataset "1.88 Million US Wildfires" from Kaggle. The classifier is Gradient Boosting of (xgboost)[https://xgboost.readthedocs.io/en/stable/index.html] package
+A classifier of fire types, Trained on the dataset "1.88 Million US Wildfires" from Kaggle. The classifier is Gradient Boosting of [xgboost](https://xgboost.readthedocs.io/en/stable/index.html) package.
 
 A full description of the project, including explanation about the feature engineering and the performances of other models on that problem are discussed in detail in the `final_report.pdf`.
 
